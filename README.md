@@ -20,3 +20,6 @@ python discord.py
 
 5) Enjoy your bot in online! Prefix is +
 
+
+
+Note: any problems with the code wont be fixed.
